@@ -2,8 +2,5 @@
   animation: none!important;
 }
 * {
-  backdrop-filter: unset!important;
-}
-* {
   transition: none!important;
 }
